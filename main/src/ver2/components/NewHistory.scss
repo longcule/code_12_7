@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+
+  .slide {
+    padding: 5rem;
+    color: #fff;
+    height: 100vh;
+    width: 200vh;
+
+    .box {
+      height: 500px;
+      background-color: aquamarine;
+    }
+  }
+
+  .anhnen {
+    max-width: 100%;
+
+    .imgs {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+}
+
+.index {
+  font-family: 'Starborn';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 74px;
+  text-transform: uppercase;
+  color: #FF2C61;
+  text-align: center;
+}
+
+.tensukien {
+  font-size: 15px;
+  font-family: 'Starborn';
+
+}
+
+.thoigiansukien {
+  font-family: 'Starborn';
+  font-weight: bold;
+  font-size: 20px;
+}
